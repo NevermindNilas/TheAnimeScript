@@ -1,8 +1,8 @@
 import configs
-from scripts import FrameExtraction as frame
-from scripts import DeDup as dedup
-from scripts import Upscale as upscale
-from scripts import Dupback as dupback
+import scripts.FrameExtraction as frame
+import scripts.DeDup as dedup
+import scripts.Upscale as upscale
+import scripts.Dupback as dupback
 import sys
 import os
 import shutil

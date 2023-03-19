@@ -5,9 +5,11 @@ import os
 input_video = r"D:\input.mp4"
 output_folder = r"D:\output" # automatically generated, no need to create the folder
 num_threads = 24 # Number of Threads to utilize ( the more = better )
-image_extension = ".jpg" # ".jpg" = higher speed lower quality, ".png" = Lower Speed, higher quality, u can probably leave it at .jpg
+image_extension = ".png" # ".jpg" = higher speed lower quality, ".png" = Lower Speed, higher quality, u can probably leave it at .jpg
 remove_temp = "false" # "true" or "false " - Remove temp folder
 
+# Output Settings
+container_output = ".mp4" # support pretty 
 # Frame Extraction
 frame_extraction_method = "cpu" # "cpu" or "cuda"
 
