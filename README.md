@@ -1,6 +1,6 @@
 # TheAnimeScript:
 The be all end all script for all anime editors ( and not only ).
-This is still in super early development, expect frequent updates.
+This is still in super early development, expect frequent updates as well as certain limitations.
 
 **Official Discord: https://discord.gg/CdRD9GwS8J**
 
